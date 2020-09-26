@@ -14,8 +14,14 @@
 <h3>Atulmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
 <h6>Currently a member of <a href="https://github.com/FronteiraTec">FronteiraTec</a></h6>
 
+<hr>
 <h3>Sobre mim</h3>
 <ul>
-    <li>Teste 1</li>
-    <li>Teste 2</li>
+    <li>Adoro um minimalimo, coisas simples e bonitas da vida!</li>
+    <li align="left">Atulmente faço coisas na linguages 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" srcset="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png 2x" alt="C programming Icon" width="25" height="25">
+    </li>
 </ul>    
