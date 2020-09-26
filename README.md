@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="index.html">
+<link rel="stylesheet" href="style.css">
+
 
 
 
