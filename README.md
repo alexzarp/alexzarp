@@ -1,7 +1,7 @@
 <h3>Olá mundo! Meu nome é Alex Sandro zarpelon, atulmente estudante de Ciência da Computação pela <a href="https://www.uffs.edu.br">UFFS</a></h3>
 <h6>Hello World! My name is Alex Sandro zarpelon, currently a student of Science Computation for <a href="https://www.uffs.edu.br">UFFS</a></h6>
 
-<img align="right" src="https://media.tenor.com/images/6a4ed8b6f2bb189b1b6b98b201de56c2/tenor.gif" width="180" />
+<img align="right" src="https://media.tenor.com/images/6a4ed8b6f2bb189b1b6b98b201de56c2/tenor.gif" width="240" />
 
 <!-- <nav style="text-align: center;"> -->
 <p>
@@ -14,9 +14,8 @@
 <h3>Atulmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
 <h6>Currently a member of <a href="https://github.com/FronteiraTec">FronteiraTec</a></h6>
 
-<p>
-    <ul>
-        <li>Teste 1</li>
-        <li>Teste 2</li>
-    </ul>    
-</p>
+<h3>Sobre mim</h3>
+<ul>
+    <li>Teste 1</li>
+    <li>Teste 2</li>
+</ul>    
