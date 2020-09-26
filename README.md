@@ -1,2 +1,2 @@
-<h1>Olá mundo! Meu nome é Alex Sandro zarpelon, atulmente estudante de Ciência da Computação pela <a href="https://www.uffs.edu.br">UFFS</a></h1>
-<h3>Hello World! My name is Alex Sandro zarpelon, currently a student of Science Computation for <a href="https://www.uffs.edu.br">UFFS</a></h3>
+<h3>Olá mundo! Meu nome é Alex Sandro zarpelon, atulmente estudante de Ciência da Computação pela <a href="https://www.uffs.edu.br">UFFS</a></h3>
+<h6>Hello World! My name is Alex Sandro zarpelon, currently a student of Science Computation for <a href="https://www.uffs.edu.br">UFFS</a></h6>
