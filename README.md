@@ -14,7 +14,7 @@
 <h3>Atulmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
 <h6>Currently a member of <a href="https://github.com/FronteiraTec">FronteiraTec</a></h6>
 
-<hr margin-top: 1px; margin-bottom: 1px;>
+<hr>
 <h3>Sobre mim</h3>
 <ul>
     <li>Adoro um minimalimo, algo sempre simples, bonito e funcional!</li>
@@ -28,8 +28,8 @@
 </ul>
 
 
-<h6>About me</h6>
-<h6><ul>
+<h6>About me<br>
+<ul>
     <li> I love a minimal, something always simple, beautiful and functional!</li>
     <li align="left">I currently do "things" in languages
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15" />
