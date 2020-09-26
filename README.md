@@ -29,7 +29,7 @@
 
 
 <h6>About me</h6>
-<ul ><font size="1">
+<h6><ul>
     <li> I love a minimal, something always simple, beautiful and functional!</li>
     <li align="left">I currently do "things" in languages
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15" />
@@ -38,4 +38,4 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" srcset="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png 2x" alt="C programming Icon" width="15" height="15">
     <img src="https://icon-library.net/images/java-icon-png/java-icon-png-2.jpg" alt="Java Icon Free - Social Media  Logos Icons in SVG and PNG - Icon Library" id="cpimg"  width="15" height="15">
     </li>
-</font></ul>
+</ul></h6>
