@@ -14,10 +14,10 @@
 <h3>Atulmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
 <h6>Currently a member of <a href="https://github.com/FronteiraTec">FronteiraTec</a></h6>
 
-<hr margin-top: 0.2em;>
+<hr margin-top: 0.2em; margin-bottom: 0.2em;>
 <h3>Sobre mim</h3>
 <ul>
-    <li>Adoro um minimalimo, coisas simples e bonitas da vida!</li>
+    <li>Adoro um minimalimo, coisas simples e bonitas!</li>
     <li align="left">Atulmente faço coisas nas linguages 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
