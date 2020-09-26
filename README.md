@@ -28,7 +28,7 @@
 </ul>
 
 
-<h6>About me<br>
+<h6>About me<br><br>
 <ul>
     <li> I love a minimal, something always simple, beautiful and functional!</li>
     <li align="left">I currently do "things" in languages
