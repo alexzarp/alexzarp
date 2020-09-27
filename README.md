@@ -39,3 +39,5 @@
     <img src="https://icon-library.net/images/java-icon-png/java-icon-png-2.jpg" alt="Java Icon Free - Social Media  Logos Icons in SVG and PNG - Icon Library" id="cpimg"  width="15" height="15">
     </li>
 </ul></h6>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
