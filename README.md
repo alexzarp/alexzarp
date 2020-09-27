@@ -39,5 +39,5 @@
     </li>
 </ul></h6>
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark" alt="Tadeu's Github Stats">
 
