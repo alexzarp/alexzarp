@@ -2,7 +2,7 @@
 <h6>Hello World! My name is Alex Sandro zarpelon, currently a student of Science Computation for <a href="https://www.uffs.edu.br">UFFS</a></h6>
 
 <img align="right" src="https://media.tenor.com/images/6a4ed8b6f2bb189b1b6b98b201de56c2/tenor.gif" width="280" />
-<img align="right" src="https://media4.giphy.com/media/3oEdv8ZHHvDzHbSFHi/source.gif" width="80" />
+<img align="right down" src="https://media4.giphy.com/media/3oEdv8ZHHvDzHbSFHi/source.gif" width="80" />
 
 <!-- <nav style="text-align: center;"> -->
 <p>
