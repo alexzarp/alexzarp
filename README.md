@@ -39,13 +39,16 @@
     </li>
 </ul></h6>
 
+ <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&theme=dark" 
+## 🧮 Estatísticas do GitHub:
+
+<img src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide-border=true&theme=dark" 
      alt = "Git status" 
      title="Meu status do github"
      style = "float: right; margin-left: 0px;" />
      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&theme=dark"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&hide-border=true&theme=dark"
      alt = "Git status" 
      title ="As linguagens que eu mais uso"
      style = "float: left; margin-right: 0px;" />
