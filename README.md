@@ -39,13 +39,11 @@
     </li>
 </ul></h6>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark"
+<img src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark"
     alt = "Não foi possível mostrar" 
     style = "float: left; margin-right: 0px;" />
 
 
-
-
-<img align="hight" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&hide_border=true&theme=dark"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&hide_border=true&theme=dark"
      alt = "Não foi possível mostrar" 
-     style = "float: left; margin-right: 0px;" />
+     style = "float: right; margin-left: 0px;" />
