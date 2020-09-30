@@ -39,7 +39,7 @@
     </li>
 </ul></h6>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark" padding: 0px; alt="Tadeu's Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark" alt="Tadeu's Github Stats">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&hide_border=true&layout=compact&theme=dark" padding: 0px; title="Quais ferramentas eu mais uso"
-/>
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&hide_border=true&layout=compact&theme=dark" title="Quais ferramentas eu mais uso"
+/>-->
