@@ -37,11 +37,8 @@
     <img src="https://icon-library.net/images/java-icon-png/java-icon-png-2.jpg" alt="Java Icon Free - Social Media  Logos Icons in SVG and PNG - Icon Library" id="cpimg"  width="15" height="15">
     </li>
 </ul></h6>
-
- <br>
-
+<br>
 ## 🧮 Estatísticas do GitHub:
-
 <img src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark" 
     alt = "Git status" 
     title="Meu status do github"
@@ -49,5 +46,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&hide_border=true&theme=dark"
     alt = "Git status" 
     title ="As linguagens que eu mais uso"
-    style = "float: left; margin-right: 0px;" />
+    style = "float: left; margin-right: 0px; width: 200px;" />
+    
      
