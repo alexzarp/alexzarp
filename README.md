@@ -41,3 +41,6 @@
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark" alt="Tadeu's Github Stats">
 
+<img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&theme=dark" title="Quais ferramentas eu mais uso"
+    height="260px" width="400px" />
