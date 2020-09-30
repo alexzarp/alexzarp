@@ -46,6 +46,6 @@
 
 
 
-<img align="hight" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezarp&layout=compact&theme=dark&hide_border=true"
+<img align="hight" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&hide_border=true&theme=dark"
      alt = "Não foi possível mostrar" 
      style = "float: left; margin-right: 0px;" />
