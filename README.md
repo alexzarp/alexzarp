@@ -39,11 +39,13 @@
     </li>
 </ul></h6>
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark"
-    alt = "Não foi possível mostrar" 
-    style = "float: left; margin-right: 0px;" />
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&hide_border=true&theme=dark"
-     alt = "Não foi possível mostrar" 
+<img src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&theme=dark" 
+     alt = "Git status" 
+     title="Meu status do github"
      style = "float: right; margin-left: 0px;" />
+     
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&theme=dark"
+     alt = "Git status" 
+     title ="As linguagens que eu mais uso"
+     style = "float: left; margin-right: 0px;" />
