@@ -38,6 +38,7 @@
     </li>
 </ul></h6>
 <br>
+
 ## 🧮 Estatísticas do GitHub:
 <img src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark" 
     alt = "Git status" 
@@ -46,6 +47,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzarp&layout=compact&hide_border=true&theme=dark"
     alt = "Git status" 
     title ="As linguagens que eu mais uso"
-    style = "float: left; margin-right: 0px; width: 200px;" />
+    style = "float: left; margin-right: 0px;" />
     
      
