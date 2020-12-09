@@ -9,7 +9,7 @@
 </p>
 <h6>The madman of the music that is listening even during classes!&#x1F3B6;</h6>
 
-<h3>Atulmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
+<h3>Atualmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
 <h6>Currently a member of <a href="https://github.com/FronteiraTec">FronteiraTec</a></h6>
 
 <hr>
