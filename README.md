@@ -22,6 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
     <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" srcset="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png 2x" alt="C programming Icon" width="25" height="25">
     <img src="https://icon-library.net/images/java-icon-png/java-icon-png-2.jpg" alt="Java Icon Free - Social Media  Logos Icons in SVG and PNG - Icon Library" id="cpimg"  width="25" height="25">
+    <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" alt="Flutter" width="25" height="25" />
     </li>
 </ul>
 
@@ -35,6 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="15" height="15" />
     <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" srcset="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png 2x" alt="C programming Icon" width="15" height="15">
     <img src="https://icon-library.net/images/java-icon-png/java-icon-png-2.jpg" alt="Java Icon Free - Social Media  Logos Icons in SVG and PNG - Icon Library" id="cpimg"  width="15" height="15">
+    <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" alt="Flutter" width="15" height="15" />
     </li>
 </ul></h6>
 
