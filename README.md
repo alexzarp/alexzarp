@@ -16,7 +16,7 @@
 <h3>Sobre mim</h3>
 <ul>
     <li>Adoro um minimalismo, algo sempre simples, bonito e funcional!</li>
-    <li align="left">Atulmente faço "coisas" nas linguages 
+    <li align="left">Atulmente faço "coisas" nas tecnologias 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
@@ -30,7 +30,7 @@
 <h6>About me<br><br>
 <ul>
     <li> I love a minimal, something always simple, beautiful and functional!</li>
-    <li align="left">I currently do "things" in languages
+    <li align="left">I currently do "things" in technologies
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="15" height="15" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="15" height="15" />
