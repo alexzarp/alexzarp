@@ -1,5 +1,5 @@
-<h3>Olá mundo! Meu nome é Alex Sandro zarpelon, atualmente estudante de <a href="https://github.com/ccuffs">Ciência da Compuação</a> pela <a href="https://www.uffs.edu.br">UFFS</a></h3>
-<h6>Hello World! My name is Alex Sandro zarpelon, currently a student of <a href="https://github.com/ccuffs">Science Computation</a> for <a href="https://www.uffs.edu.br">UFFS</a></h6>
+<h3>Olá mundo! Meu nome é Alex Sandro Zarpelon, atualmente estudante de <a href="https://github.com/ccuffs">Ciência da Compuação</a> pela <a href="https://www.uffs.edu.br">UFFS</a></h3>
+<h6>Hello World! My name is Alex Sandro Zarpelon, currently a student of <a href="https://github.com/ccuffs">Science Computation</a> for <a href="https://www.uffs.edu.br">UFFS</a></h6>
 
 <img align="right" src="https://media.tenor.com/images/6a4ed8b6f2bb189b1b6b98b201de56c2/tenor.gif" width="280" />
 
