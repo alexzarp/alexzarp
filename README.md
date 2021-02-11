@@ -11,6 +11,7 @@
 
 <h3>Atualmente integrante da <a href="https://github.com/FronteiraTec">FronteiraTec</a></h3>
 <h6>Currently a member of <a href="https://github.com/FronteiraTec">FronteiraTec</a></h6>
+<h6>Aqui expresso minha vontade de saída, o quanto antes, deste projeto que atualmente não está mais me fazendo sentido. Após a mudança de situação eu retorno futuramente talvez.</h6>
 
 <hr>
 <h3>Sobre mim</h3>
