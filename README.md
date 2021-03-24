@@ -9,7 +9,7 @@
 </p>
 <h6>The madman of the music that is listening even during classes!&#x1F3B6;</h6>
 
-<hr>
+<hr><br><br>
 <h3>Sobre mim</h3>
 <ul>
     <li>Adoro um minimalismo, algo sempre simples, bonito e funcional!</li>
