@@ -20,7 +20,10 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" srcset="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png 2x" alt="C programming Icon" width="25" height="25">
     <img src="https://icon-library.net/images/java-icon-png/java-icon-png-2.jpg" alt="Java Icon Free - Social Media  Logos Icons in SVG and PNG - Icon Library" id="cpimg"  width="25" height="25">
     <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" alt="Flutter" width="25" height="25" />
+    <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" alt="PHP" width="25" height="25" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="25" height="25" />
     </li>
+    
 </ul>
 
 
@@ -34,6 +37,8 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" srcset="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png 2x" alt="C programming Icon" width="15" height="15">
     <img src="https://icon-library.net/images/java-icon-png/java-icon-png-2.jpg" alt="Java Icon Free - Social Media  Logos Icons in SVG and PNG - Icon Library" id="cpimg"  width="15" height="15">
     <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" alt="Flutter" width="15" height="15" />
+    <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" alt="PHP" width="15" height="15" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="15" height="15" />
     </li>
 </ul></h6>
 
