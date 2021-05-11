@@ -50,5 +50,9 @@
     alt = "Git status" 
     title ="As linguagens que eu mais uso"
     style = "float: left; margin-right: 0px;" />
+<img src="https://github-stats.gonoc.vercel.app/api/wakatime?username=alexzarp&custom_title=Wakatime%20Year%20Stats&langs_count=7&time=last_year&hide_border=true&theme=dark" 
+    alt = "Git status"
+    title = "Tempo de cada linguagem"
+    style = "float: left; margin-right: 0px;"/>
     
      
