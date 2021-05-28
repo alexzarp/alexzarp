@@ -22,6 +22,7 @@
     <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" alt="Flutter" width="25" height="25" />
     <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" alt="PHP" width="25" height="13" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="25" height="25" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="25" height="25" />
     </li>
     
 </ul>
@@ -39,6 +40,7 @@
     <img src="https://strattonapps.com/wp-content/uploads/2020/02/flutter-logo-5086DD11C5-seeklogo.com_.png" alt="Flutter" width="15" height="15" />
     <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png" alt="PHP" width="15" height="8" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JS" width="15" height="15" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="15" height="15" />
     </li>
 </ul></h6>
 
@@ -50,9 +52,6 @@
     alt = "Git status" 
     title ="As linguagens que eu mais uso"
     style = "float: left; margin-right: 0px;" />
-<!-- <img src="https://github-stats.gonoc.vercel.app/api/wakatime?username=alexzarp&custom_title=Wakatime%20Year%20Stats&langs_count=7&time=last_year&hide_border=true&theme=dark" 
-    alt = "Git status"
-    title = "Tempo de cada linguagem"
-    style = "float: left; margin-right: 0px;"/> -->
+
     
      
