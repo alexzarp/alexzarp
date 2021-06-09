@@ -5,7 +5,7 @@
 
 <p>
     <a href="https://twitter.com/ccpensant" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@ccpensant%20-00ACEE?style=flat-square&amp;labelColor=ffffff&amp;logo=Twitter&amp;https://twitter.com/ccpensant" alt="Twitter Badge"></a>
-    <a href="https://open.spotify.com/user/22o563yu6vjetoarqnqamt3ca" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Alex%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22o563yu6vjetoarqnqamt3ca" alt="Spotify Badge"></a>
+    <a href="https://open.spotify.com/user/22o563yu6vjetoarqnqamt3ca" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-StukaPrablinia%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/22o563yu6vjetoarqnqamt3ca" alt="Spotify Badge"></a>
 </p>
 <h6>The madman of the music that is listening even during classes!&#x1F3B6;</h6>
 
