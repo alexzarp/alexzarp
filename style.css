@@ -82,3 +82,16 @@ body {
     align-self: center;
     margin-left: auto;
     margin-right: auto; */
+
+@media (max-width: 700px) {
+    body {
+        margin: 2% 2% 2% 2%;
+    }
+    main {
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .blocos {
+        margin: 0 6% 0 6%;
+    }
+}
