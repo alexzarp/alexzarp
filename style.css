@@ -63,11 +63,14 @@ body {
 #github {
     color: black;
 }
-#mail {
+/* #mail {
     color: red;
-}
+} */
 #blue {
     color: #4285f4;
+}
+#dark_red {
+    color: #c5221f;
 }
 #red {
     color: #ea4335;
