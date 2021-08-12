@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 * {
     font-family: 'Roboto', sans-serif;
+    padding: 0;
+    border: 0;
+    margin: 0;
 }
 
 h1 {
@@ -24,10 +27,12 @@ body {
     display: flex;
     margin-left: auto;
     margin-right: auto;
+    transition: 0.3s ease;
 }
 #foto:hover {
-    transition: 0.5s;
+    /* transition: 0.5s ease; */
     transform: scale(1.1);
+    border-color: rgb(107, 255, 39);
 }
 
 .blocos {
@@ -39,13 +44,24 @@ body {
     align-self: center;
     flex-wrap: nowrap;
     justify-content: space-between;
+    transition: 0.3s ease;
 }
 
 .blocos:hover {
     background-color: white;
-    transition: 0.5s;
     transform: scale(1.05);
 }
+
+/* ul {
+    list-style: none;
+}
+
+.info li:last-child {
+    visibility: visible;
+}
+.info li:first-child:hover li {
+    visibility: hidden;
+} */
 
 .blocos img{
     width: 3em;
