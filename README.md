@@ -7,7 +7,7 @@
 </p>
 
 <hr>
-<a href="https://alexzarp.github.io/alexzarp">Visite minha página!</a>
+<a href="https://alexzarp.github.io/linkTree">Visite minha página!</a>
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=alexzarp&show_icons=true&hide_border=true&theme=dark" 
